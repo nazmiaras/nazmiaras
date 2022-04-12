@@ -14,7 +14,6 @@
 
 - 💻 &nbsp; PHP | Pyhon | Angular | Dart | C | C#  
 - 🌐 &nbsp; Laravel | Keras | Ionic | Flutter | ASP.NET Core 
-- 🛢 &nbsp; MySQL | Firebase | Xampp
 - 🔧 &nbsp; Multisim | Altium Designer
 <br>
 
