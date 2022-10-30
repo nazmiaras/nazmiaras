@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning ASP.NET Core Web Development
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Electrical and Electronics Engineering.
 - 💼 &nbsp; Back-end developer and Mobile App developer.
 - 🌱 &nbsp; Enthusiast in cyber Security, Artificial Intelligence and Embedded Software.
