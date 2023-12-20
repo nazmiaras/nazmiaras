@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning ASP.NET Core Web Development
+- 🔭 &nbsp; I’m currently learning Embedded Software.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Electrical and Electronics Engineering.
 - 💼 &nbsp; Back-end developer and Mobile App developer.
@@ -13,7 +13,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; PHP | Pyhon | Angular | Dart | C | C#  
-- 🌐 &nbsp; Laravel | Keras | Ionic | Flutter | ASP.NET Core 
+- 🌐 &nbsp; Laravel | Keras | Ionic | Flutter | ASP.NET Core | STM32
 - 🔧 &nbsp; Multisim | Altium Designer
 <br>
 
